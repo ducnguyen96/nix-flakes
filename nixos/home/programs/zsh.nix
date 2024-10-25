@@ -5,6 +5,7 @@
   ...
 }: {
   imports = [
+    ./scripts/preview.nix
   ];
 
   programs.zsh = {
