@@ -2,6 +2,7 @@
   imports = [
     ../nixos/home
     ../nixos/hosts
+    ../tools/nixvim
     inputs.pre-commit-hooks.flakeModule
   ];
 
