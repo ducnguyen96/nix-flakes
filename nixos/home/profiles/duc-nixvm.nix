@@ -3,6 +3,8 @@
     ../programs/starship.nix
     ../programs/zsh.nix
     ../programs/utils.nix
+
+    ../../../tools/nixvim/home-module.nix
   ];
 
   home = {

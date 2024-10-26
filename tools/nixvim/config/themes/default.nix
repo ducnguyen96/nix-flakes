@@ -1,0 +1,3 @@
+{
+  catppuccin = import ./catppuccin.nix;
+}
